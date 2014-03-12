@@ -1,0 +1,4 @@
+module Language.Scrap
+    (
+    ) where
+
